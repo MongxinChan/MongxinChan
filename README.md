@@ -6,7 +6,7 @@
   <img href="https://codetime.dev" alt="VSCODE environment from Windows 11 on June 1,2025" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33095">
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MongxinChan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" alt="Mongxinchan" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MongxinChan&theme=tokyonight" alt="Mongxinchan" />
 
 
 
